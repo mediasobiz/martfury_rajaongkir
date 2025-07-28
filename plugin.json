@@ -1,0 +1,15 @@
+{
+  "name": "RajaOngkir",
+  "namespace": "Botble\\RajaOngkir\\",
+  "description": "Plugin pengiriman dengan API RajaOngkir",
+  "author": "Viacom + ChatGPT",
+  "version": "1.0.0",
+  "provider": "Botble\\RajaOngkir\\Providers\\RajaOngkirServiceProvider",
+  "aliases": {},
+  "autoload": {
+    "psr-4": {
+      "Botble\\RajaOngkir\\": "src"
+    }
+  },
+  "require": []
+}
